@@ -1,4 +1,4 @@
-# demo
+# Demo
 
 
-Someone Descriptuon
+Someone Description
